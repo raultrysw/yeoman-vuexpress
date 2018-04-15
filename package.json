@@ -1,0 +1,23 @@
+{
+  "name": "generator-vuexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "generatos"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "camel-case": "^3.0.0",
+    "capitalize": "^1.0.0",
+    "pluralize": "^7.0.0",
+    "yeoman-generator": "^2.0.4"
+  }
+}
